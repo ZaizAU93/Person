@@ -1,4 +1,4 @@
-package pk.hw_37_AOP;
+package pk.hw_37_logger;
 
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
